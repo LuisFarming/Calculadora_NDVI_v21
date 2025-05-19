@@ -1,6 +1,6 @@
 # Proyecto de Procesamiento de Imágenes para Agricultura
 
-Este proyecto es una herramienta en desarrollo para el procesamiento de imágenes aéreas o satelitales, enfocada en la aplicación de índice de vegetación NDVI para la agricultura de precisión.
+Este proyecto es una herramienta en desarrollo para el procesamiento de imágenes aéreas o satelitales para zonas puntuales, no para grandes imágenes (por el peso), enfocada en la aplicación de índices de vegetación NDVI/NDRE para la agricultura de precisión.
 
 ## ¿Qué hace actualmente?
 
