@@ -4,7 +4,7 @@ Este proyecto es una herramienta en desarrollo para el procesamiento de imágene
 
 ## ¿Qué hace actualmente?
 
-La aplicación permite cargar y procesar imágenes (especificar formatos si aplica, ej. GeoTIFF) para calcular y visualizar resultados como índices de vegetación (ej. NDVI, NDRE) u otros mapas temáticos.
+La aplicación permite cargar y procesar imágenes (especificar formatos si aplica, ej. GeoTIFF) para calcular y visualizar resultados como índices de vegetación (ej. NDVI, NDRE) u otros índices que usen el mismo algoritmo.
 
 ## Estado Actual y Problemas Conocidos
 
